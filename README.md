@@ -1,2 +1,2 @@
-# RentalMovies-
+# RentalMovies
 Movie Rental App
